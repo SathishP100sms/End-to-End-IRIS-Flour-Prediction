@@ -20,7 +20,7 @@ app.add_middleware(
 )
 
 # Load ML model
-BASE_DIR = Path(__file__).parent
+BASE_DIR = Path(__file__).resolve().parent
 MODEL_PATH = BASE_DIR / "iris_model.pkl"
 
 try:
