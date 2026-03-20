@@ -85,11 +85,3 @@ Run:
 pip install scikit-learn
 
 ---
-
-## 👨‍💻 Author
-
-Sathish P
-
----
-
-⭐ Star this repo if you like it!
